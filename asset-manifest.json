@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/children-roledex/static/css/main.e85f717b.chunk.css",
+    "main.js": "/children-roledex/static/js/main.2e50d51d.chunk.js",
+    "main.js.map": "/children-roledex/static/js/main.2e50d51d.chunk.js.map",
+    "runtime-main.js": "/children-roledex/static/js/runtime-main.adc0950c.js",
+    "runtime-main.js.map": "/children-roledex/static/js/runtime-main.adc0950c.js.map",
+    "static/js/2.88d5a660.chunk.js": "/children-roledex/static/js/2.88d5a660.chunk.js",
+    "static/js/2.88d5a660.chunk.js.map": "/children-roledex/static/js/2.88d5a660.chunk.js.map",
+    "index.html": "/children-roledex/index.html",
+    "precache-manifest.7bf934b42bd3bd1f35e862eea740c593.js": "/children-roledex/precache-manifest.7bf934b42bd3bd1f35e862eea740c593.js",
+    "service-worker.js": "/children-roledex/service-worker.js",
+    "static/css/main.e85f717b.chunk.css.map": "/children-roledex/static/css/main.e85f717b.chunk.css.map",
+    "static/js/2.88d5a660.chunk.js.LICENSE.txt": "/children-roledex/static/js/2.88d5a660.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc0950c.js",
+    "static/js/2.88d5a660.chunk.js",
+    "static/css/main.e85f717b.chunk.css",
+    "static/js/main.2e50d51d.chunk.js"
+  ]
+}
